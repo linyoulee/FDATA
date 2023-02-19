@@ -7,3 +7,4 @@ Source :
 3. PPI : BLS.GOV
 4. CPI : BLS.GOV
 5. Commodities Price Index : Index Mundi
+6. VIX : Yahoo Finance
